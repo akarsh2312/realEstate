@@ -1,4 +1,5 @@
 Summary
+
 Full-Stack Architecture & Modern Technologies: Engineered a scalable real estate web application leveraging the MERN stack (MongoDB, Express.js, React, Node.js), incorporating Prisma for streamlined database interaction, JWT for secure authentication, and Context API for efficient state management.
 
 Real-Time Communication: Integrated Socket.io to enable real-time chat functionality, allowing users (buyers, sellers, agents) to seamlessly communicate within the platform, enhancing user engagement and facilitating faster property transactions.
